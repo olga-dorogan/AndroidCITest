@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Gus</string>
+    <string name="app_name">App</string>
     <string name="search_users">Search for users on Github...</string>
     <string name="search_icon_title">Search</string>
     <string name="search_for_some_users">Start typing to search</string>
